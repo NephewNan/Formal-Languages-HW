@@ -1,0 +1,14 @@
+2.3 A)
+The original execution trace is:
+### Your answer here ###
+Number 4. 
+- ⊢ + ⊢ > - 0 + 1 > - 1 + 0 > - 1 + 0 > - 1 + 0 > - 0 + 1 > - 1 + 0 >
+
+Given the input 011101, the corresponding output is:
+### Your answer here ###
+100010
+
+2.3 B)
+### Your answer here ###
+This TM is probably designed to do a bitwise NOT operation for the input.
+The TM will probably do the same job for other length 6 bitstrings, however, I don't have enough information about this TM therefore I don't know for sure. It is possible that this TM only works with 011101.
